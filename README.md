@@ -4,6 +4,10 @@ Long story short, the Open Source Hardware Association (OSHWA) basycally says al
 
 Well, this project is not properly a serious hardware thing but also it's definetely not software so I'm licensing it under **CERN-OHL-W-V2** and you can read all about it in the licenses folder if you have the patience and the will to do so.
 
+# Repo Organisation
+
+I didn't go hardcore here because it's a simple (although a long) project and I'd like to have different versions to compare my designs. Then files with different names in the same folder just works and there's no reason to complicate any more, so **src** contains source files and **dst** contains "distributables", which means vector files for laser cutting/milling/rounting, a cool GIF, the pdf versions, etc
+
 # I like telling stories
 
 So, back in 2010 I just got into high school and was starting to listen to metal. Jumped from Queen, Kiss and Nirvana to Metallica, SOAD and Slayer. Also, my brother was having acoustic guitar lessons at the time but I just didn't want to do it because "I didn't like chord instruments" (and, come on, it's not the genre I liked). One day I grabbed his old nylon acoustic guitar and tried to learn Seek and Destroy from an online lesson with tabs. It sounded easy enough: you just have to count the frets, put your finger on the indicated place and play along. Turns out I was spending quite a few hours learning that Metallica classic untill I was able to play it fairly well given the conditions (except the solo, of course, but I could play the whole rhythm guitar parts of the song). My father offered me to buy a guitar as a Christmas gift and I took it as I'm not the kind of getting/asking for gifts. It made sense at the time.
