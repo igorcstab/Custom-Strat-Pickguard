@@ -6,7 +6,7 @@ Well, this project is not properly a serious hardware thing but also it's define
 
 # Repo Organisation
 
-I didn't go hardcore here because it's a simple (although a long) project and I'd like to have different versions to compare my designs. Then files with different names in the same folder just works and there's no reason to complicate any more, so **src** contains source files and **dst** contains "distributables", which means vector files for laser cutting/milling/rounting, a cool GIF, the pdf versions, etc
+I didn't go hardcore here because it's a simple (although a long) project and I'd like to have different versions to compare my designs. Then files with different names in the same folder just works and there's no reason to complicate any more, so **src** contains source files and **dst** contains "distributables", which means vector files for laser cutting/milling/rounting, a cool GIF, the pdf versions, etc.
 
 # I like telling stories
 
